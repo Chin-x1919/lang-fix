@@ -72,7 +72,7 @@ int main(int argc, char *argv[]) {
         while (char_idx < word_len) {
             translate_char(argv[i], &char_idx);
         }
-        if (i < argc - 1) printf(" "); // เติมช่องว่างระหว่างคำ(idk what sould i put in eng)
+        if (i < argc - 1) printf(" ");
     }
     printf("\n");
 
