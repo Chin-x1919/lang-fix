@@ -1,5 +1,7 @@
 # lang-fix
 
+![Open Source Garbage](https://img.shields.io/badge/open--source-garbage-red)
+
 translate thai keyboard &lt;--> eng keyboard
 Works on my machine (and yours, if you're cool enough)
 
